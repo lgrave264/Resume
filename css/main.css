@@ -4,3 +4,8 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+
+.bodybox{
+    height: 100%;
+    width: 100%;
+}
